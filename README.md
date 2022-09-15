@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Hugo-Frnr
+- 👀 I’m interested in Machine Learning and NLP
+- 📖 I studied Information technology at INSA Rennes and I did an Erasmus in Finland for 5 months
